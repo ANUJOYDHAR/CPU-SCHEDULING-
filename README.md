@@ -2,7 +2,7 @@
 Code For CPU-SCHEDULING  Algorithm
 
 
-*FCFS 
-*ROUND-ROBBIN 
-* SJRF
-* SJF
+ *FCFS 
+ *ROUND-ROBBIN 
+ * SJRF
+ * SJF
